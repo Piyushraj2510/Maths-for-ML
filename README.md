@@ -1,1 +1,1 @@
-Maths
+Maths required for Machine Learning
